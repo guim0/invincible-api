@@ -1,0 +1,17 @@
+{
+  "name": "invincible-api",
+  "version": "1.0.0",
+  "description": "This is a Node api, create to list all characters from Invincible universe.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guilherme Moraes",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongodb": "^6.8.0",
+    "mongoose": "^8.5.2"
+  }
+}
