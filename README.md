@@ -4,7 +4,7 @@ Welcome to the Invincible API, an API that provides information about characters
 
 ## Who is Invincible?
 
-![Invincible](src\assets\mark.jpg)
+![Invincible](src/assets/mark.jpg)
 
 Invincible is the alter-ego from Mark Grayson, he is a half Human and half Viltrumite who is a race from a planet called Viltrum whose abilities are simillar to Superman from DC comics, to know more there is a animated series on Amazon Prime Video, but i always suggest to read the comic books from Image Comics.
 
